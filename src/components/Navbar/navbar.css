@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+.nav-header{
+    background-color:#a53491!important;
+    width:100%;
+color: white;    
+  text-decoration: none;
+}
+.text-left{
+    float:left;
+    clear:left;
+    
+}
+.nav-footer{
+    background-color:#a53491!important;
+    color: white; 
+}
+.footer-text{
+    color: white;
+    float:left;
+}
+.footer-text{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+}
+.aboutus-page{
+    color: white;
+}
+.text-start{
+    color: white;
+    
+}
+.card-border{
+    border: none;
+}
+.text-section{
+    color:black;
+}
+.book-appointment{
+    background-color:rgb(23, 185, 172);
+    border-radius: 20px;
+    color: white;
+    float: right;
+}
+.Accordion{
+    background-color:#000;
+}
+.icon-color-facebook:before{
+    content:"\e002";
+    background-color:rgb(56, 56, 161);
+    border-radius: 50%;
+    font-size:30px;
+
+}
+.icon-color-instagram:before{
+    content:"\e002";
+    background-color:rgb(187, 10, 10);
+    border-radius: 50%;
+    font-size:30px;
+
+}
+.icon-color-twitter:before{
+    content:"\e002";
+    background-color:rgb(77, 67, 221);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size:30px;
+
+}
