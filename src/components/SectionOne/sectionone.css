@@ -1,0 +1,14 @@
+.section-title b {
+    display: block;
+    -ms-flex: 1;
+    flex: 1;
+    height: 2px;
+    opacity: .1;
+    background-color: currentColor;
+}
+.float-left-button{
+    float: left;
+}
+.passion-text {
+    float: left;
+}

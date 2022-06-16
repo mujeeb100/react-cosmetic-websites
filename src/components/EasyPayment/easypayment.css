@@ -1,0 +1,33 @@
+/* .easypayment{
+    background-color: #08838b;
+    width: 100%;
+    background-size: cover;
+} */
+.header-easypayment{
+    color: white;
+    font-weight: bold;
+}
+.emifacility{
+    display: block;
+    flex: 1;
+    flex: 1;
+    height: 2px;
+    opacity: .1;
+    background-color: currentColor;
+}
+.easy-background{
+    background-color: #08838b;
+}
+.easypaymentmode{
+    margin:0px 20px;
+    display: flex;
+    justify-content: center;
+}
+.easypaymentmode img{
+    margin:0px 10px;
+    width: 40%;
+
+}
+.Eqnuirybutton{
+    background:transparent;
+}
